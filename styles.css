@@ -1,0 +1,82 @@
+body{
+	background-color: #cdddf7;
+	font-family: Century Gothic, Serif;
+	font-size: 20px;
+	background-image: url("images/Superman.png");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-attachment: fixed;
+}
+
+.headfoot{
+	font-size: 20px;
+	color: white;
+	font-family: Brush Script MT, Serif;
+}
+
+span{
+	font-family: Arial;
+}
+
+h1{
+	text-align: center;
+	color: #700d02;
+	font-family: Impact;
+}
+
+p{
+	padding: 15px 50px 15px 50px;
+}
+
+img{
+	border: 2px solid black;
+	height: 200px;
+	width: 200px;
+}
+
+#jobs{
+	width: 100%;
+}
+
+#painters{
+	position: absolute;
+	left: 50px;
+}
+
+#house{
+	position: relative;
+    right: -650px;
+}
+
+#hotel{
+	position: absolute;
+	right: 50px;
+}
+
+#rocket{
+	border: 1px solid #045ff2;
+	height: 25px;
+	width: 25px;
+}
+
+
+article{
+	text-align: center;
+}
+
+h3{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+	#saying{
+		margin-top: 0px;
+		margin-bottom: 0px;
+		padding-top: 2px;
+		padding-bottom: 2px;
+	}
+
+    #fish{
+	    border: 8px dotted black;
+		margin-top: 5px;
+    }
